@@ -7,7 +7,7 @@ Using the Cloud (S3) to pull station CRS codes, grab data from the JSON station 
 
 
 <h2>Requirements</h2>
-Requests Module (pip install requests)
+[Requests](http://docs.python-requests.org/en/latest/) Module (pip install requests)
 
 [Huxley](https://github.com/jpsingleton/Huxley/wiki/Hosting-Quick-Start)
 
@@ -32,9 +32,13 @@ Updates are occurring to the station CSR code file every 2-3 days, these happen 
 
 <h2>Huxley</h2>
 ![Huxley Icon](https://raw.githubusercontent.com/OliPicard/Huxley/master/src/Huxley/huxley.png)
+
 [Huxley](https://github.com/jpsingleton/Huxley/) is a SOAP proxy client that reduces the headaches educed by the national rail XML SOAP system.
 
+
 ![Powered By National  Rail](https://raw.githubusercontent.com/OliPicard/Huxley/master/src/Huxley/NRE_Powered_logo.png)
+
+[National Rail API](http://realtime.nationalrail.co.uk/OpenLDBWSRegistration)
 
 <h2>Credits</h2>
 Developed with love by [OliPicard](http://github.com/olipicard)
