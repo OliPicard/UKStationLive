@@ -32,8 +32,9 @@ Updates are occurring to the station CSR code file every 2-3 days, these happen 
 
 <h2>Huxley</h2>
 ![Huxley Icon](https://raw.githubusercontent.com/OliPicard/Huxley/master/src/Huxley/huxley.png)
-Huxley is a SOAP proxy client that reduces the headaches educed by the national rail XML SOAP system.
-![Powered By National  Rail]()
+[Huxley](https://github.com/jpsingleton/Huxley/) is a SOAP proxy client that reduces the headaches educed by the national rail XML SOAP system.
+
+![Powered By National  Rail](https://raw.githubusercontent.com/OliPicard/Huxley/master/src/Huxley/NRE_Powered_logo.png)
 
 <h2>Credits</h2>
 Developed with love by [OliPicard](http://github.com/olipicard)
