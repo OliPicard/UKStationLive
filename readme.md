@@ -24,6 +24,7 @@ edit the config.json file in your own text editor, We personally <3 [Atom](http:
 Be sure to replace the following items.
 
 1) The Huxley Proxy url with [your own Huxley proxy](https://github.com/jpsingleton/Huxley/wiki/Hosting-Quick-Start).
+
 2) The API key. [Click here to sign up for the National Rail API](http://realtime.nationalrail.co.uk/OpenLDBWSRegistration)
 
 <h2>Station CSRs</h2>
