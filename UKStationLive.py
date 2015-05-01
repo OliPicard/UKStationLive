@@ -113,8 +113,7 @@ def menu():
     print('---------------------------------------------')
 
 
-loop = True
-while loop:
+def main():
     menu()
     words = input(' ').lower()
     pload = 'https://s3-eu-west-1.amazonaws.com/ukstationlive/stations.json'  # The CSR codes are stored on S3.
@@ -138,9 +137,9 @@ while loop:
         sys.exit()
     try:
         if words == "quit":
-            loop = False
+            sys.exit()
         elif words == "exit":
-            loop = False
+            sys.exit()
         elif words == "credits":
             print('Developed with love by OliPicard')
         elif words == "help":
@@ -157,3 +156,7 @@ while loop:
             station_info(stations[words])
     except KeyError:
         print('It seems you have attempted to enter an invalid key. Please type help for a list of commands.')
+
+
+while __name__ == "__main__":
+    main()
