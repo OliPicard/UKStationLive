@@ -5,7 +5,7 @@ UKStationLive is a live endpoint client powered by [Huxley](https://github.com/j
 
 Using the Cloud (S3) to pull station CRS codes, grab data from the JSON station Huxley service (Azure) and provide a multiplatform experience. Simply put this app allows you to view when trains will be arriving at a platform, What platform they are arriving from, The origin of the train and the final destination of the train.
 
-We have support for all 2564 stations across the united kingdom.
+We have support for all 2564 stations across the United Kingdom.
 
 
 <h2>Requirements</h2>
@@ -30,6 +30,7 @@ Be sure to replace the following items.
 On the first weekend of each month, we will update the station CSRs. These will be pushed out to the client over the air. a copy will also be included with the github repo allowing you to host your own copy of the CSR codes.
 
 **Host your own copy of stations.json**
+
 [![Download](https://s3-eu-west-1.amazonaws.com/ukstationliveimg/download.png)](https://s3-eu-west-1.amazonaws.com/ukstationlive/stations.json)
 
 
