@@ -1,5 +1,5 @@
 <h1>UKStationLive</h1>
-![ukstationlive](https://s3-eu-west-1.amazonaws.com/ukstationliveico/ukstationlivepub.png)
+![ukstationlive](https://s3-eu-west-1.amazonaws.com/ukstationliveimg/ukstationlivepub.png)
 
 UKStationLive is a live endpoint client powered by [Huxley](https://github.com/jpsingleton/Huxley/) and National Rail's live Darwin Service. The client is open sourced under the GPL 3.0 free software license.
 
