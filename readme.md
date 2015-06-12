@@ -61,7 +61,7 @@ diminonten - for the in memory cupid editor
 
 wub_wub - for putting up with my silly questions.
 
-/__love__/ - for helping me understand that global isn't the right place to store code.
+\__love__\ - for helping me understand that global isn't the right place to store code.
 
 excalibur - for putting up with my streaming requests and providing me example code to work with to implement cupid.
 
