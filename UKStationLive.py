@@ -3,6 +3,7 @@ import requests
 import requests.exceptions
 import json
 import sys
+#!/usr/bin/env python3
 
 ''' A simple live data view of the national rail london stations.
     Developed by OliPicard (github.com/olipicard)
