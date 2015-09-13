@@ -57,6 +57,9 @@ def station_info(station):
     except requests.exceptions.Timeout:
         print('It seems the API is timing out. Please try again later.')
         sys.exit()
+    if dataq['trainServices'] is None:
+        input("No Station Services run from this terminal.")
+        sys.exit()
     if dataq['nrccMessages'] is not None:  # Experimental: Checking for National Rail National Wide messages.
             for messages in dataq['nrccMessages']:
                 print(messages['value'])
